@@ -6,8 +6,8 @@ import java.sql.SQLException;
 
 public class ConnectionManager {
 
-    private static final String USERNAME = "dbuser";
-    private static final String PASSWORD = "Samaritan.29";
+    private static final String USERNAME = "";
+    private static final String PASSWORD = "";
     private static String connectionString;
     private Connection conn = null;
 
